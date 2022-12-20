@@ -4,6 +4,23 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,solidity,express,php,mysql,docker,git,github,githubactions,discord,bots)](https://skillicons.dev)
 
+### My main projects
+
+- [OpenSubs](https://github.com/LesFreresMoutarde/opensubs) - An NFT marketplace that enables peer to peer rental of subscriptions to online service platforms thanks to the ERC4907 standard (project for [Alyra](https://alyra.fr/) certification) - *Solidity, React, Typescript, Firebase*
+- [live.24hisere.fr](https://github.com/EmileCalixte/live.24hisere.fr) - A web application for live tracking of runners' rankings and performances during a 24-hour race - *React, Typescript, Slim PHP, MariaDB*
+- [leQuiz.io](https://github.com/LesFreresMoutarde/LeQuiz.io) - A real time multiplayer quiz platform - *React, Node.js, socket.io, PostgreSQL*
+
+### Side projects
+
+- [Discord SubBot](https://github.com/EmileCalixte/discord-subbot) - A discord bot designed for [BUG-MAN-FR's Discord server](https://discord.com/invite/bugmanfr) to facilitate early access to videos for subscribers - *Typescript, discord.js, Node.JS*
+- [Mee6 Leaderboard Extractor](https://github.com/EmileCalixte/mee6-leaderboard-extractor) - *Node.JS*
+
+### Miscellaneous contributions
+
+[OpenIV French translation](https://github.com/OpenIV-Team/OpenIV-Languages)
+
+...and so many other tests, experiments and archives that you can find on my profile.
+
 <!--
 **EmileCalixte/EmileCalixte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
