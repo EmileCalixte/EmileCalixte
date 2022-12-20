@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack & blockchain developer and software engineer.
+
 <!--
 **EmileCalixte/EmileCalixte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
