@@ -21,6 +21,12 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 
 ...and so many other tests, experiments and archives that you can find on my profile.
 
+### How to reach me
+
+<img src="icons/linkedin.svg" style="height: 1em"> [in/emile-calixte](https://www.linkedin.com/in/emile-calixte/)  
+<img src="icons/discord.svg" style="height: 1em"> [Mimile#0038](https://discord.com/users/281869790363254784)  
+📧 [calixte.emile@gmail.com](mailto:calixte.emile@gmail.com)  
+
 <!--
 **EmileCalixte/EmileCalixte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
