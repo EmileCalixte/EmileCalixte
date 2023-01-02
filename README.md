@@ -12,6 +12,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 
 ### Side projects
 
+- [Voting Dapp](https://github.com/EmileCalixte/alyra-voting) - A voting smart contract & Dapp (project developed during my [Alyra](https://alyra.fr/) training)
 - [Discord SubBot](https://github.com/EmileCalixte/discord-subbot) - A discord bot designed for [BUG-MAN-FR's Discord server](https://discord.com/invite/bugmanfr) to facilitate early access to videos for subscribers - *Typescript, discord.js, Node.JS*
 - [Mee6 Leaderboard Extractor](https://github.com/EmileCalixte/mee6-leaderboard-extractor) - *Node.JS*
 
