@@ -48,6 +48,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 ![Hardhat](https://custom-icon-badges.demolab.com/badge/Hardhat-fff100?style=for-the-badge&logoColor=333333&logo=hardhat)
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-0098d5?style=for-the-badge&logoColor=white&logo=docker)
 ![Vercel](https://custom-icon-badges.demolab.com/badge/Vercel-000000?style=for-the-badge&logoColor=white&logo=vercel)
+![OpenAPI](https://custom-icon-badges.demolab.com/badge/OpenAPI-6ba43a?style=for-the-badge&logoColor=white&logo=openapi)
 
 ## How to reach me
 
