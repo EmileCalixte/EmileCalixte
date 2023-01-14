@@ -51,6 +51,12 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 ![OpenAPI](https://custom-icon-badges.demolab.com/badge/OpenAPI-6ba43a?style=for-the-badge&logoColor=white&logo=openapi)
 ![Sass](https://custom-icon-badges.demolab.com/badge/Sass-bf4080?style=for-the-badge&logoColor=white&logo=sass)
 
+### What I would like to learn
+
+![Nest.js](https://custom-icon-badges.demolab.com/badge/Nest.js-e0234e?style=for-the-badge&logoColor=white&logo=nestjs)
+![Prisma](https://custom-icon-badges.demolab.com/badge/Prisma-4c51bf?style=for-the-badge&logoColor=white&logo=prisma)
+![Vue.js](https://custom-icon-badges.demolab.com/badge/Vue.js-42b883?style=for-the-badge&logoColor=white&logo=vuedotjs)
+
 ## How to reach me
 
 <img src="icons/linkedin.svg" style="height: 1em"> [in/emile-calixte](https://www.linkedin.com/in/emile-calixte/)  
