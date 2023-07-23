@@ -60,7 +60,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 ## How to reach me
 
 <img src="icons/linkedin.svg" style="height: 1em"> [in/emile-calixte](https://www.linkedin.com/in/emile-calixte/)  
-<img src="icons/discord.svg" style="height: 1em"> [Mimile#0038](https://discord.com/users/281869790363254784)  
+<img src="icons/discord.svg" style="height: 1em"> [@mimile](https://discord.com/users/281869790363254784)  
 📧 [calixte.emile@gmail.com](mailto:calixte.emile@gmail.com)  
 
 <!--
