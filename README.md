@@ -7,7 +7,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 ### Main projects
 
 - [OpenSubs](https://github.com/LesFreresMoutarde/opensubs) - An NFT marketplace that enables peer to peer rental of subscriptions to online service platforms thanks to the ERC4907 standard (project for [Alyra](https://alyra.fr/) certification) - *Solidity, React, Typescript, Firebase*
-- [live.24hisere.fr](https://github.com/EmileCalixte/live.24hisere.fr) - A web application for live tracking of runners' rankings and performances during a 24-hour race - *React, Typescript, Slim PHP, MariaDB*
+- [live.24hisere.fr](https://github.com/EmileCalixte/live.24hisere.fr) - A web application for live tracking of runners' rankings and performances during a 24-hour race - *NestJS, React, Typescript, Prisma, MariaDB*
 - [leQuiz.io](https://github.com/LesFreresMoutarde/LeQuiz.io) - A real time multiplayer quiz platform - *React, Node.js, socket.io, PostgreSQL*
 
 ### Side projects
@@ -36,8 +36,9 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 ### Frameworks and libraries
 
 ![React](https://custom-icon-badges.demolab.com/badge/React-61dafb?style=for-the-badge&logoColor=black&logo=react)
+![Nest.js](https://custom-icon-badges.demolab.com/badge/Nest.js-e0234e?style=for-the-badge&logoColor=white&logo=nestjs)
+![Prisma](https://custom-icon-badges.demolab.com/badge/Prisma-4c51bf?style=for-the-badge&logoColor=white&logo=prisma)
 ![Ethers.js](https://custom-icon-badges.demolab.com/badge/ethers.js-2535a0?style=for-the-badge&logoColor=white&logo=ethers.js)
-![Express](https://custom-icon-badges.demolab.com/badge/Express-000000?style=for-the-badge&logoColor=white&logo=express)
 ![Discord.js](https://custom-icon-badges.demolab.com/badge/Discord.js-5865f2?style=for-the-badge&logoColor=white&logo=discord)
 
 ### Tools & other
@@ -53,8 +54,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 
 ### What I would like to learn
 
-![Nest.js](https://custom-icon-badges.demolab.com/badge/Nest.js-e0234e?style=for-the-badge&logoColor=white&logo=nestjs)
-![Prisma](https://custom-icon-badges.demolab.com/badge/Prisma-4c51bf?style=for-the-badge&logoColor=white&logo=prisma)
+![Tailwind CSS](https://custom-icon-badges.demolab.com/badge/tailwind%20css-38bdf8?style=for-the-badge&logoColor=white&logo=tailwind-css)
 ![Vue.js](https://custom-icon-badges.demolab.com/badge/Vue.js-42b883?style=for-the-badge&logoColor=white&logo=vuedotjs)
 
 ## How to reach me
