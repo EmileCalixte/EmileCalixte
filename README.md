@@ -46,6 +46,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 ![Git](https://custom-icon-badges.demolab.com/badge/Git-ef391a?style=for-the-badge&logoColor=white&logo=git)
 ![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)
 ![GitHub Actions](https://custom-icon-badges.demolab.com/badge/Github%20Actions-2088ff?style=for-the-badge&logoColor=white&logo=githubactions)
+![GitLab](https://custom-icon-badges.demolab.com/badge/GitLab-fc6d26?style=for-the-badge&logoColor=white&logo=gitlab)
 ![Hardhat](https://custom-icon-badges.demolab.com/badge/Hardhat-fff100?style=for-the-badge&logoColor=333333&logo=hardhat)
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-0098d5?style=for-the-badge&logoColor=white&logo=docker)
 ![Vercel](https://custom-icon-badges.demolab.com/badge/Vercel-000000?style=for-the-badge&logoColor=white&logo=vercel)
