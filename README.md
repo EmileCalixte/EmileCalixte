@@ -57,6 +57,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 
 ![Tailwind CSS](https://custom-icon-badges.demolab.com/badge/tailwind%20css-38bdf8?style=for-the-badge&logoColor=white&logo=tailwind-css)
 ![Vue.js](https://custom-icon-badges.demolab.com/badge/Vue.js-42b883?style=for-the-badge&logoColor=white&logo=vuedotjs)
+![SolidJS](https://custom-icon-badges.demolab.com/badge/SolidJS-4f87c6?style=for-the-badge&logoColor=white&logo=solid)
 
 ## How to reach me
 
