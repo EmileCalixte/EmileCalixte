@@ -53,10 +53,11 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 ![OpenAPI](https://custom-icon-badges.demolab.com/badge/OpenAPI-6ba43a?style=for-the-badge&logoColor=white&logo=openapi)
 ![Sass](https://custom-icon-badges.demolab.com/badge/Sass-bf4080?style=for-the-badge&logoColor=white&logo=sass)
 
-### What I would like to learn
+### What I would like to try
 
 ![Tailwind CSS](https://custom-icon-badges.demolab.com/badge/tailwind%20css-38bdf8?style=for-the-badge&logoColor=white&logo=tailwind-css)
 ![Vue.js](https://custom-icon-badges.demolab.com/badge/Vue.js-42b883?style=for-the-badge&logoColor=white&logo=vuedotjs)
+![Nuxt](https://custom-icon-badges.demolab.com/badge/Nuxt-00dc82?style=for-the-badge&logoColor=white&logo=nuxtdotjs)
 ![SolidJS](https://custom-icon-badges.demolab.com/badge/SolidJS-4f87c6?style=for-the-badge&logoColor=white&logo=solid)
 
 ## How to reach me
