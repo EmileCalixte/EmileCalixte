@@ -40,6 +40,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 ![Prisma](https://custom-icon-badges.demolab.com/badge/Prisma-4c51bf?style=for-the-badge&logoColor=white&logo=prisma)
 ![Ethers.js](https://custom-icon-badges.demolab.com/badge/ethers.js-2535a0?style=for-the-badge&logoColor=white&logo=ethers.js)
 ![Discord.js](https://custom-icon-badges.demolab.com/badge/Discord.js-5865f2?style=for-the-badge&logoColor=white&logo=discord)
+![Symfony](https://custom-icon-badges.demolab.com/badge/Symfony-1a171b?style=for-the-badge&logoColor=white&logo=symfony)
 
 ### Tools & other
 
