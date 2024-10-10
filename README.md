@@ -6,7 +6,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 
 ### Main projects
 
-- [live.24hisere.fr](https://github.com/EmileCalixte/live.24hisere.fr) - A web application for live tracking of runners' rankings and performances during a 24-hour race - *NestJS, React, Typescript, Prisma, MariaDB*
+- [live.24hisere.fr](https://github.com/EmileCalixte/live.24hisere.fr) - A web application for live tracking of runners' rankings and performances during a 24-hour race - *NestJS, React, Typescript, Drizzle, MariaDB*
 - [leQuiz.io](https://github.com/LesFreresMoutarde/LeQuiz.io) - A real time multiplayer quiz platform - *React, Node.js, socket.io, PostgreSQL*
 - [OpenSubs](https://github.com/LesFreresMoutarde/opensubs) - An NFT marketplace that enables peer to peer rental of subscriptions to online service platforms thanks to the ERC4907 standard (project for [Alyra](https://alyra.fr/) certification) - *Solidity, React, Typescript, Firebase*
 
@@ -37,6 +37,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 
 ![React](https://custom-icon-badges.demolab.com/badge/React-61dafb?style=for-the-badge&logoColor=black&logo=react)
 ![Nest.js](https://custom-icon-badges.demolab.com/badge/Nest.js-e0234e?style=for-the-badge&logoColor=white&logo=nestjs)
+![Drizzle](https://custom-icon-badges.demolab.com/badge/Drizzle-111111?style=for-the-badge&logoColor=c5f74f&logo=drizzle)
 ![Prisma](https://custom-icon-badges.demolab.com/badge/Prisma-4c51bf?style=for-the-badge&logoColor=white&logo=prisma)
 ![Ethers.js](https://custom-icon-badges.demolab.com/badge/ethers.js-2535a0?style=for-the-badge&logoColor=white&logo=ethers.js)
 ![Discord.js](https://custom-icon-badges.demolab.com/badge/Discord.js-5865f2?style=for-the-badge&logoColor=white&logo=discord)
@@ -46,6 +47,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-0098d5?style=for-the-badge&logoColor=white&logo=docker)
 ![pnpm](https://custom-icon-badges.demolab.com/badge/pnpm-f69220?style=for-the-badge&logoColor=white&logo=pnpm)
+![Vite](https://custom-icon-badges.demolab.com/badge/Vite-4fbfff?style=for-the-badge&logoColor=white&logo=vite)
 ![Git](https://custom-icon-badges.demolab.com/badge/Git-ef391a?style=for-the-badge&logoColor=white&logo=git)
 ![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)
 ![GitHub Actions](https://custom-icon-badges.demolab.com/badge/Github%20Actions-2088ff?style=for-the-badge&logoColor=white&logo=githubactions)
