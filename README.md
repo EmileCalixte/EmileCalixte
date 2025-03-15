@@ -6,7 +6,7 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 
 ### Main projects
 
-- [live.24hisere.fr](https://github.com/EmileCalixte/live.24hisere.fr) - A web application for live tracking of runners' rankings and performances during a 24-hour race - *NestJS, React, Typescript, Drizzle, MariaDB*
+- [live.24hisere.fr](https://github.com/EmileCalixte/live.24hisere.fr) - A web application for live tracking of runners' rankings and performances during a 24-hour race - *NestJS, React, Tailwind CSS, Typescript, Drizzle, MariaDB*
 - [leQuiz.io](https://github.com/LesFreresMoutarde/LeQuiz.io) - A real time multiplayer quiz platform - *React, Node.js, socket.io, PostgreSQL*
 - [OpenSubs](https://github.com/LesFreresMoutarde/opensubs) - An NFT marketplace that enables peer to peer rental of subscriptions to online service platforms thanks to the ERC4907 standard (project for [Alyra](https://alyra.fr/) certification) - *Solidity, React, Typescript, Firebase*
 
@@ -56,10 +56,10 @@ I'm Emile, a French <img src="icons/flag_fr.png" style="height: 1em"> full-stack
 ![Vercel](https://custom-icon-badges.demolab.com/badge/Vercel-000000?style=for-the-badge&logoColor=white&logo=vercel)
 ![OpenAPI](https://custom-icon-badges.demolab.com/badge/OpenAPI-6ba43a?style=for-the-badge&logoColor=white&logo=openapi)
 ![Sass](https://custom-icon-badges.demolab.com/badge/Sass-bf4080?style=for-the-badge&logoColor=white&logo=sass)
+![Tailwind CSS](https://custom-icon-badges.demolab.com/badge/tailwind%20css-38bdf8?style=for-the-badge&logoColor=white&logo=tailwind-css)
 
 ### What I would like to try
 
-![Tailwind CSS](https://custom-icon-badges.demolab.com/badge/tailwind%20css-38bdf8?style=for-the-badge&logoColor=white&logo=tailwind-css)
 ![Vue.js](https://custom-icon-badges.demolab.com/badge/Vue.js-42b883?style=for-the-badge&logoColor=white&logo=vuedotjs)
 ![Nuxt](https://custom-icon-badges.demolab.com/badge/Nuxt-00dc82?style=for-the-badge&logoColor=white&logo=nuxtdotjs)
 ![SolidJS](https://custom-icon-badges.demolab.com/badge/SolidJS-4f87c6?style=for-the-badge&logoColor=white&logo=solid)
